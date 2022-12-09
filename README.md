@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @areri
 - 👀 I’m interested in; robotic process automation, coding, physics and renewable enrgey systems.
-- 🌱 I’m currently learning maasai mara university and undertaking bachelor of science (physics).
-- 💞️ I’m looking to collaborate on web development, applicatication development, robotic process automation.
+- 🌱 I’m currently learning an undergraduate tudent in maasai mara university and undertaking bachelor of science (physics).
+- 💞️ I’m looking foward to collaborate on web development, applicatication development, robotic process automation and any new challanges.
 - 📫 How to reach me through my email. arerirodney@gmail.com and also my phone number (+254797-795884) and also my social media accounts(areri rodney).
 
 <!---
